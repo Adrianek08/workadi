@@ -1,6 +1,6 @@
 import './App.css'
 
-const n_k = 1;
+const n_k = 2;
 let x;
 let y;
 let sum1;
