@@ -1,0 +1,49 @@
+body{
+  background-image: url(https://img.freepik.com/premium-wektory/technologia-polaczenia-sieci-sztuczna-inteligencja-abstrakcyjny-projekt-biznesowy-wektorowy-futurystyczne-sieci-neuronowe-siatka-ruch-duze-dane-w-przestrzeni-wirtualne-tlo-bezpieczenstwa-cybernetycznego_1168175-111.jpg?semt=ais_hybrid);
+  background-size: cover;
+  }
+  
+  .tablica1{
+  border: 5px solid blueviolet;
+  border-radius: 20 px;
+  text-align: center;
+  background-size: cover;
+  margin: 0 auto;
+  width: 400px;
+  height: 100px;
+  box-shadow: blue;
+  text-size-adjust: 24;
+  font-size:  24;
+  
+  
+  }
+  .tablica2{
+      border: 5px solid blueviolet;
+      border-radius: 10 px;
+      text-align: center;
+      background-size: cover;
+      margin: 0 auto;
+      width: 300px;
+      height: 300px;
+      box-shadow: blue;
+      text-size-adjust: 20;
+      font-size: 20;
+  
+  
+  
+  }
+      .tablica3{
+          border: 5px solid blueviolet;
+          border-radius: 10 px;
+          text-align: center;
+          background-size: cover;
+          margin: 0 auto;
+          width: 300px;
+          height: 300px;
+          box-shadow: blue;
+          text-size-adjust: 20;
+          font-size: 20;
+  
+  
+      }
+ 
