@@ -4,7 +4,7 @@ body{
   }
   
   .div_1{
-  border: 5px solid blueviolet;
+  border: 5px solid black;
   border-radius: 20 px;
   text-align: center;
   background-size: cover;
@@ -18,7 +18,7 @@ body{
   
   }
   .div_2{
-      border: 5px solid blueviolet;
+      border: 5px solid black;
       border-radius: 10 px;
       text-align: center;
       background-size: cover;
@@ -33,7 +33,7 @@ body{
   
   }
       .div_3{
-          border: 5px solid blueviolet;
+          border: 5px solid black;
           border-radius: 10 px;
           text-align: center;
           background-size: cover;
